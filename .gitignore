@@ -1,2 +1,6 @@
 
 .DS_Store
+
+vue-ios-picker/.idea/
+
+vue-ios-picker/node_modules/
