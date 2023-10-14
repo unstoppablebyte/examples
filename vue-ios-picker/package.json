@@ -12,7 +12,7 @@
     "vue": "^3.3.4",
     "vue-lazyload": "^3.0.0",
     "vue-router": "^4.2.5",
-    "vue3-ios-picker": "^1.0.1"
+    "vue3-ios-picker": "^1.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",

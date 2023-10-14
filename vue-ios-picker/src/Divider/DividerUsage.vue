@@ -26,8 +26,8 @@ const state = reactive({
   ],
 });
 
-function onSimpleUsageUpdate(groupIndex, selectedItemIndex, selectedItemValue) {
-  console.log(groupIndex, selectedItemIndex, selectedItemValue)
+function onSimpleUsageUpdate(groupIndex, selectedItemIndex, selectedItemValue, newConfiguration) {
+  console.log(groupIndex, selectedItemIndex, selectedItemValue, newConfiguration);
 }
 </script>
 
